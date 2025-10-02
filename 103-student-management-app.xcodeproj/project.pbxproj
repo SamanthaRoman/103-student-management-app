@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4AD4C4912E8DB57A00957031 /* 103-student-management-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "103-student-management-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4AD4C4912E8DB57A00957031 /* 103-student-management-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "103-student-management-app.app"; path = "/Users/samro/Desktop/MDI-iOS/03-projects/103-student-management-app/sources/103-student-management-app/build/Debug-iphoneos/103-student-management-app.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				4AD4C4932E8DB57A00957031 /* 103-student-management-app */,
-				4AD4C4922E8DB57A00957031 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		4AD4C4922E8DB57A00957031 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4AD4C4912E8DB57A00957031 /* 103-student-management-app.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 4AD4C4882E8DB57A00957031;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 4AD4C4922E8DB57A00957031 /* Products */;
+			productRefGroup = 4AD4C4882E8DB57A00957031;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
