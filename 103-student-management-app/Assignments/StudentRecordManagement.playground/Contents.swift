@@ -45,9 +45,9 @@ for studentName in studentNames {
     print("Student: \(studentName)")
     print("Grade: \(studentGrades[studentName]!)")
     print("Average: \(calculateAverage(grades: studentGrades[studentName]!)) \n")
-    findTopStudent(from: studentGrades)
+    
 }
-
+findTopStudent(from: studentGrades)
 //Extra Challenge:
 //
 //Add functionality to identify and print the student with the highest average grade.
